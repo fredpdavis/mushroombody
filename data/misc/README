@@ -1,0 +1,6 @@
+Miscellaneous files used by R code
+----------------------------------
+
+Gene.list.Mx20180212.txt - manually annotated list of genes in specific categories
+INTACT.fa - FASTQ sequences of INTACT genetic bits
+INTACT.gtf - GTF file for RNA-seq alignment to INTACT genetic bits

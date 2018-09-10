@@ -1,0 +1,2 @@
+perl ../../src/perl/GTF2transcript_info.pl < ../star_files.BDGP6.91/BDGP6.91.ERCC.INTACT.gtf > BDGP6.91.ERCC.INTACT.transcript_info.txt
+perl ../../src/perl/GTF2exon_intron_bed.pl ../star_files.BDGP6.91/BDGP6.91.ERCC.INTACT.gtf BDGP6.91.ERCC.INTACT

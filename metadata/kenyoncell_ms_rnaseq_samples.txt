@@ -1,0 +1,15 @@
+sampleID	sampleName	fastqSampleNum	ND_ng_uL	A260	A280	260_280	260_230	qubit_ng_uL	avg_size_bp	yield.nuclei	NugenBarcode	barcodeSequence	qPCR_conc_nM	vol_uL_for_pooling	cellType	lobe
+s001	MB185_air_1	1	166.7	3.334	1.748	1.91	2.14	102.0	367	8400	1	AAGGGA	13.434	2.48	alpha.beta.s	alpha.beta
+s002	MB185_air_2	2	186.78	3.736	1.954	1.91	2.2	97.6	418	8200	2	CCTTCA	11.366	2.93	alpha.beta.s	alpha.beta
+s003	MB594_air_1	7	170.33	3.407	1.791	1.9	2.14	94.0	361	17900	7	GGATGT	12.617	2.64	alpha.beta.c	alpha.beta
+s004	MB594_air_2	8	182.63	3.653	1.946	1.88	2.16	130.4	345	18300	8	TTCGCT	18.091	1.84	alpha.beta.c	alpha.beta
+s005	MB131_air_1	13	169.66	3.393	1.776	1.91	2.18	97.6	390	17000	5	AAGACG	17.599	1.89	gamma.m	gamma
+s006	MB131_air_2	14	199.6	3.992	2.063	1.93	2.23	132.3	372	16900	6	CCTCGG	23.160	1.44	gamma.m	gamma
+s007	MB370_air_1	19	185.13	3.703	1.94	1.91	2.17	104.9	396	34000	3	GGACCC	12.822	2.60	alphap.betap.ap	alphap.betap
+s008	MB370_air_2	20	191.62	3.832	2.003	1.91	2.18	129.6	382	34000	4	TTCAGC	12.325	2.70	alphap.betap.ap	alphap.betap
+s009	MB607_air_1	25	82.3	1.646	0.886	1.86	1.7	40.8	306	14000	1	AAGGGA	6.701	4.97	gamma.d	gamma
+s010	MB607_air_2	26	127.75	2.555	1.341	1.91	2.11	72.9	372	13900	2	CCTTCA	9.618	3.47	gamma.d	gamma
+s011	MB371_air_1	31	103.42	2.068	1.082	1.91	2.01	61.2	419	9000	7	GGATGT	7.295	4.57	alpha.beta.p	alpha.beta
+s012	MB371_air_2	32	146.32	2.926	1.543	1.9	2.05	69.6	372	9000	8	TTCGCT	9.205	3.62	alpha.beta.p	alpha.beta
+s013	MB418_air_1	38	165.82	3.316	1.746	1.9	2.37	109.2	402	7500	14	CACCTC	13.142	5.07	alphap.betap.m	alphap.betap
+s014	MB418_air_2	42	179.4	3.588	1.88	1.91	2.21	100.8	417	7300	9	ACACGA	11.749	5.67	alphap.betap.m	alphap.betap
