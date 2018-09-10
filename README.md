@@ -4,7 +4,7 @@ This package contains code to analyze RNA-seq data and generate figures and
 tables presented in:
 
 Nuclear transcriptomes of the seven neuronal cell types that constitute the
-Drosophila mushroom bodies. 
+Drosophila mushroom bodies.  
 Shih MF*, Davis FP*, Henry GL+, Dubnau J+
 
 Contact fred.davis@nih.gov with any questions.
